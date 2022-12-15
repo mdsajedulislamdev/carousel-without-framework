@@ -1,0 +1,27 @@
+.AllContent {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.Content {
+  width: 100%;
+  position: absolute;
+  bottom: 10%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.image {
+  width: 50vw;
+}
+.Title {
+  text-align: center;
+  font-size: 4vw;
+  color: #ffffff;
+}
+.Description {
+  text-align: center;
+  font-size: 2vw;
+  color: #ffffff;
+}
